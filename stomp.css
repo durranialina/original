@@ -1,0 +1,25 @@
+body
+{
+	background-color : pink;	
+	color : black;
+}
+
+h1, h2, h3 
+{
+    color : purple;
+	text-align : center; 
+}
+
+ul, ol, li 
+{ 
+    color : black; 
+    text-align : justify;
+} 
+
+p
+{
+	color : black;
+	text-align : justify;
+	font-size : 12pt
+}
+
